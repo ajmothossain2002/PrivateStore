@@ -3,7 +3,7 @@ import { createTheme } from '@mui/material/styles';
 const theme = createTheme({
     
   typography: {
-    fontFamily: `'quintessential', sans-serif`,
+    fontFamily: `'Quintessential', serif`,
   },
    palette: {
     mode: 'light',
